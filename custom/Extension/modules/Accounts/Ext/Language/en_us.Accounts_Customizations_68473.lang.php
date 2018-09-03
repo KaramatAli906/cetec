@@ -1,0 +1,34 @@
+<?php
+// WARNING: The contents of this file are auto-generated.
+$mod_strings['LNK_NEW_ACCOUNT'] = 'Create Dealer';
+$mod_strings['LBL_MODULE_NAME'] = 'Dealers';
+$mod_strings['LBL_MODULE_NAME_SINGULAR'] = 'Dealer';
+$mod_strings['LBL_NEW_FORM_TITLE'] = 'New Dealer';
+$mod_strings['LNK_ACCOUNT_LIST'] = 'View Dealers';
+$mod_strings['LNK_ACCOUNT_REPORTS'] = 'View Dealer Reports';
+$mod_strings['LNK_IMPORT_ACCOUNTS'] = 'Import Dealers';
+$mod_strings['MSG_SHOW_DUPLICATES'] = 'The Dealer record you are about to create might be a duplicate of an Dealer record that already exists. Dealer records containing similar names are listed below.Click Save to continue creating this new Dealer, or click Cancel to return to the module without creating the Dealer.';
+$mod_strings['LBL_SAVE_ACCOUNT'] = 'Save Dealer';
+$mod_strings['LBL_LIST_FORM_TITLE'] = 'Dealer List';
+$mod_strings['LBL_SEARCH_FORM_TITLE'] = 'Dealer Search';
+$mod_strings['LBL_ACCOUNTS_SUBPANEL_TITLE'] = 'Dealers';
+$mod_strings['LBL_HOMEPAGE_TITLE'] = 'My Dealers';
+$mod_strings['ACCOUNT_REMOVE_PROJECT_CONFIRM'] = 'Are you sure you want to remove this Dealer from the project?';
+$mod_strings['ERR_DELETE_RECORD'] = 'You must specify a record number in order to delete the Dealer.';
+$mod_strings['LBL_ACCOUNT_NAME'] = 'Dealer Name:';
+$mod_strings['LBL_ACCOUNT'] = 'Dealer:';
+$mod_strings['LBL_BUG_FORM_TITLE'] = 'Dealers';
+$mod_strings['LBL_DEFAULT_SUBPANEL_TITLE'] = 'Dealers';
+$mod_strings['LBL_DUPLICATE'] = 'Possible Duplicate Dealer';
+$mod_strings['LBL_MODULE_TITLE'] = 'Dealers: Home';
+$mod_strings['LBL_MODULE_ID'] = 'Dealers';
+$mod_strings['LBL_PARENT_ACCOUNT_ID'] = 'Parent Dealer ID';
+$mod_strings['MSG_DUPLICATE'] = 'The Dealer record you are about to create might be a duplicate of an Dealer record that already exists. Dealer records containing similar names are listed below.Click Create Dealer to continue creating this new Dealer, or select an existing Dealer listed below.';
+$mod_strings['LBL_ACCOUNT_TYPE'] = 'Dealer Type';
+$mod_strings['LBL_ASSIGNED_TO'] = 'Primary Salesperson';
+$mod_strings['LBL_ASSIGNED_TO_ID'] = 'Primary Salesperson';
+$mod_strings['LBL_RECORDVIEW_PANEL1'] = 'Addresses';
+$mod_strings['LBL_INSTAGRAM'] = 'Instagram Account';
+$mod_strings['LBL_NAME'] = 'Company Name';
+$mod_strings['LBL_BILLING_ADDRESS_STATE'] = 'Billing Province';
+$mod_strings['LBL_SHIPPING_ADDRESS_STATE'] = 'Shipping Province';

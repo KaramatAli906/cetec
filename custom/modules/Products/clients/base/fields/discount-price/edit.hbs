@@ -1,0 +1,16 @@
+{{#if hideCurrencyDropdown}}
+    <input type="text" name="{{name}}" value="{{value}}" class="inherit-width"{{#if def.tabindex}} tabindex="{{def.tabindex}}"{{/if}} style="width:80%">
+    <button class="btn price_list" style="margin-left: 1px;">
+        <i class="fa fa-list" rel="tooltip" data-container="body" data-title="Open Price List" data-original-title="" title=""></i>
+    </button>
+{{else}}
+    <div class="select2-addon">
+        <span sfuuid="{{currencySfId}}" class="currency edit"></span>
+        <input type="text" name="{{name}}" value="{{value}}"{{#if def.tabindex}} tabindex="{{def.tabindex}}"{{/if}} style="width:80%">
+        <button class="btn price_list" style="margin-left: 1px;">
+            <i class="fa fa-list" rel="tooltip" data-container="body" data-title="Open Price List" data-original-title="" title=""></i>
+        </button>
+    </div>
+{{/if}}
+
+{{#unless hideHelp}}{{#if def.help}}<p class="help-block">{{str def.help module}}</p>{{/if}}{{/unless}}

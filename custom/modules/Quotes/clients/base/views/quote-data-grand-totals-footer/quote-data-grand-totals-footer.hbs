@@ -1,0 +1,7 @@
+{{#each meta.panels}}
+    <div class="footer-fields">
+        {{#each fields}}
+            {{field ../../this model=../../model template=../../action}}
+        {{/each}}
+    </div>
+{{/each}}
