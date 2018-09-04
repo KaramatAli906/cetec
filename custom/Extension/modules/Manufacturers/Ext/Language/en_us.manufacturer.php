@@ -1,0 +1,3 @@
+<?php
+
+$mod_strings['LBL_MANUFACTURERS_CETEC_DEMO_PRODUCTS_1_FROM_CETEC_DEMO_PRODUCTS_TITLE'] = 'Demo Products';

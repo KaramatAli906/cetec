@@ -301,14 +301,22 @@ array (
               ),
               34 => 
               array (
+                'name' => 'commision_c',
+                'label' => 'LBL_COMMISION',
+              ),
+              35 => 
+              array (
+              ),
+              36 => 
+              array (
                 'name' => 'description',
                 'span' => 12,
               ),
-              35 => 'support_name',
-              36 => 'support_description',
-              37 => 'support_contact',
-              38 => 'support_term',
-              39 => 
+              37 => 'support_name',
+              38 => 'support_description',
+              39 => 'support_contact',
+              40 => 'support_term',
+              41 => 
               array (
                 'name' => 'tag',
                 'span' => 12,
